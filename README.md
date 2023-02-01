@@ -6,15 +6,17 @@ Mathematica list) in each file describe the type.
 
 In types r0r0r0 and r0r1r1 each entry is of the form
 
-`{{lambda1, lambda2}, {Re(a2}, Im(a2), Re(a3), Im(a3), Re(a5), Im(a5),...}`
+`{{lambda1, lambda2}, {Re(a2), Im(a2), Re(a3), Im(a3), Re(a5), Im(a5),...}}`
 
 In type rc the entries are
 
-`{{kappa, lambda}, {Re(a2}, Im(a2), Re(a3), Im(a3), Re(a5), Im(a5),...}`
+`{{kappa, lambda}, {Re(a2), Im(a2), Re(a3), Im(a3), Re(a5), Im(a5),...}}`
 
 See the paper for the specific Gamma factors.
 
 A better version of the data, indicating the accuracy of each number,
 is being prepared.
 
+Also in preparation is a better documented version of the code use to produce
+the data.
 
